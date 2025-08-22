@@ -18,9 +18,6 @@ Built and tested in **Google Colab**, with support for all 2025 season tracks.
 
 ---
 
-
----
-
 ## 🛠️ Tech Stack
 - **Python** (Data Processing + ML)
 - **Scikit-learn / XGBoost** (Prediction Models)
