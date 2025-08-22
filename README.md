@@ -49,7 +49,7 @@ Visualizations of:
 ---
 
 ## ▶️ Getting Started
-1. Open the Google Colab Notebook [🔗 Link Here].  
+1. Open the Google Colab Notebook.  
 2. Run all cells to set up the environment.  
 3. Use the dropdown menus to configure:
    - Track, Weather, Temperature, Tyre Strategy, Safety Car Probability  
